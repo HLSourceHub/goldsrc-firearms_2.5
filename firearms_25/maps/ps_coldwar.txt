@@ -1,0 +1,9 @@
+Cold War (Push)
+
+ By Graham Davis
+
+This is a push map with 4 flag areas.  Your
+team must occupy all flag areas to gain points.
+You must also capture all flag areas in sequence.
+Once you capture all points, your whole team gets
+5 points each.

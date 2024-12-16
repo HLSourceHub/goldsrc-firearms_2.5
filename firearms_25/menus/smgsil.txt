@@ -1,0 +1,10 @@
+9mm SMG SIL
+The 9mm SMG SIL is the top of the line in close combat
+sub-machine guns. Its small size and compactness make this gun
+easily concealable. This gun has seen a lot of action when
+concealability is needed to maintain cover or to keep the
+element of surprise. The 9mm SMG SIL holds a 30 round clip
+of 9mm. Attached to the 9mm SMG SIL is a special operations
+silencer to maintain the element of surprise during combat.
+
+Costs 8 credits.

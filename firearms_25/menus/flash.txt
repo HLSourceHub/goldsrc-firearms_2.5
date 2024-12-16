@@ -1,0 +1,7 @@
+Flashbang
+The flashbang is a new grenade used primarly to gain entry into
+situations where disorientation is needed. The flashbang works by
+providing a blinding flash and a disconcerting sonic "bang". Used
+in close ranges it can be damaging. 
+
+Costs 2 credits.

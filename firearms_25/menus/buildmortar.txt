@@ -1,0 +1,8 @@
+Builds a mortar directly in front of you.  If the mortar has no
+supply of rounds, then press your "use" button to supply it.
+More mortar rounds can be obtained from ammo boxes.  You can
+only carry 5 at one time. The mortar must be completely out of
+supply before it can be resupplied.  When you look at the mortar,
+it will display the mortar's health and the amount of rounds in its
+supply in the owners team color.  To fire a supplied mortar,
+press your "use" button.

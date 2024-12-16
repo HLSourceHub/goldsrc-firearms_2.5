@@ -1,0 +1,9 @@
+Swamp (Push)
+ 
+ By Graham Davis
+
+The Red team must push the Blue team back to their base
+and capture Blue's radio to cut-off their communications.
+
+The Blue team should push the Red team back to their
+camp to prevent the enemy advance.

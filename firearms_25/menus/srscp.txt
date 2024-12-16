@@ -1,0 +1,7 @@
+7.62 SR-SCP
+The 7.62 SR-SCP is a premium grade sniper rifle. Its great
+accuracy and craftsmanship have made it a costly but good
+firearm. Used mainly in special application situations, it
+fires the 7.62mm round.
+
+Costs 15 credits.

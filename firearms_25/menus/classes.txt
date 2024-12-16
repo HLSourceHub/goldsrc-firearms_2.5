@@ -1,0 +1,15 @@
+1 Veteran
+
+2 Marine
+
+3 Fire Support
+
+4 Russian
+
+5 Marksman
+
+6 Assualt
+
+7 Expert
+
+8 Custom

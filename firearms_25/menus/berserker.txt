@@ -1,0 +1,10 @@
+ Items:
+  * Kevlar Level III
+  * Kevlar Helmet
+  * Fragmentation Grenades
+  * Stielhand Grenades
+  * Bandages
+
+ Weapons:
+  * Colt Anaconda
+  * Automat Kalashnikov 47

@@ -1,0 +1,9 @@
+40mm GL
+The 40mm GL is a relic from a past conflict. It still sees action
+in other countries and areas, but most militaries that use it are
+technologically inferior. It was designed to give the infantry
+man the power to offer a special type of fire support in battle.
+The 40mm GL is a breach loader and fires 40mm High Explosive
+grenades at great distances.
+
+Costs 9 credits.

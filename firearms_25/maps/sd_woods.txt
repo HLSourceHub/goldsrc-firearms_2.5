@@ -1,0 +1,13 @@
+Woods (Seek & Destroy)
+
+ By Rob Lutz
+
+Destroy the ammo and supply crates on the enemy
+side of the woods. Red has metal crates.  Blue has
+wooden crates. Defend your own crates as well as
+destroying the enemy's crates for points. Points
+given according to the crate's distance into the
+enemy base.
+
+All crates must be destroyed with a Claymore 
+mine explosive.

@@ -1,0 +1,4 @@
+Kevlar Helmet
+Protects your head from incoming bullets.
+
+Costs 3 credits.

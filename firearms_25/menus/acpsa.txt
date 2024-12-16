@@ -1,0 +1,7 @@
+.45 ACP-SA
+The .45 ACP-SA is a sturdy pistol that has been used ever since
+the 1900s.  It has seen action in almost every military unit in
+the world. A dependable pistol, it fires out .45acp and takes a
+hell of a beating.
+
+Costs 3 credits.

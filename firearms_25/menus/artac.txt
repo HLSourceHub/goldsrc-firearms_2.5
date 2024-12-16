@@ -1,0 +1,7 @@
+5.56 AR-TAC
+The 5.56 AR-TAC is a unique bullpup weapon due to its unusual
+form and in turn has given it many sour names and harsh looks
+from other troops. It uses the 5.56mm round and contains a 25
+round clip.
+
+Costs 10 credits.

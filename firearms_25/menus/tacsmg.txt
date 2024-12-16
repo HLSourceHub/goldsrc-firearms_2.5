@@ -1,0 +1,8 @@
+9mm TAC SMG
+The 9mm TAC SMG is the standard issue sub-machine gun for many
+armies and task forces alike. It has seen conflicts in almost
+every area where a light, accurate, 9mm smg is needed. 
+Attached to the 9mm TAC SMG is a laser sighting system to
+increase the accuracy of the firearm.
+
+Costs 7 credits.

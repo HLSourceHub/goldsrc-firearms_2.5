@@ -1,0 +1,9 @@
+5.56 NATO AR-SCP
+The 5.56 NATO AR-SCP is a true modular weapon system in caliber
+5.56x45mm NATO (.223 Remington). Constructed almost entirely of
+a tough, carbon fiber reinforced polymer material and using a
+simple, self-regulating gas system, the 5.56 NATO AR-SCP
+provides the user with a lightweight weapon that delivers high
+performance with extremely low maintenance.
+
+Costs 11 credits.

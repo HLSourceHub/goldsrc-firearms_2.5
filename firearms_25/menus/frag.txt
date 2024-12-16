@@ -1,0 +1,6 @@
+Frag Grenade
+The fragmentation grenade has been standard equipment in every
+army in the past. The grenade has a use for every tactical
+situation. Simple instructions include pull the pin and throw.
+
+Costs 2 credits.

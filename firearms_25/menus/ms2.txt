@@ -1,0 +1,6 @@
+This is the proficiency of weapon usage.  You are very
+disciplined in breathing techniques or perhaps a combat
+veteran. You must have the Marksmanship I skill to
+obtain this skill.
+
+Provides a +3 bonus to accuracy.

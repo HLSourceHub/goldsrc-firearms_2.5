@@ -1,0 +1,12 @@
+Wartorn (Objectives)
+
+ By Tyler Munden
+
+Objective : Each team has a keycard somewhere
+in the city. You must find your enemy's keycard
+and use it to gain entrance to the SAM site. 
+The blue force must activate the site to ward 
+off the red airstrike, while the red force must 
+deactivate the site so that more reinforcements 
+can fly in. Once you enter the SAM site, you 
+must capture the site's control room.

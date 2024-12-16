@@ -1,0 +1,9 @@
+AK-47
+The 7.62MM AR-BT is a sturdy weapon. Built soon after World
+War 2 by a tank mechanic, it soon became the standard issue
+for many armies across the world. Its sheer availability has
+given it great power. It fires 7.62mm rounds with a good rate
+of fire, and with good accuracy. A soldier's weapon, it is
+mounted with a bayonette for close combat.
+
+Costs 12 credits.

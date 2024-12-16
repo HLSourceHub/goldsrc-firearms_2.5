@@ -1,0 +1,7 @@
+Anaconda
+The Colt Anaconda is a powerful revolver. Mounted on top of this
+hand cannon is a powerful scope, allowing you to take those long
+distance shots and utilize the weapon to its full potential. Alt Fire 
+toggles zoom. 
+
+Costs 4 credits.

@@ -1,0 +1,6 @@
+9mm SA-SIL
+The 9mm SA-SIL fires a 9mm round, and while having a longer
+range, it suffers from the lack of direct stopping power.
+It is equipped with a silencer for special operations.
+
+Costs 4 credits.

@@ -1,0 +1,19 @@
+-------------Field Medic-------------
+light_armor
+armor_helmet
+armor_arms
+armor_legs
+frag
+bandages
+acpsa
+argl
+first_aid
+field_medicine
+marksmanship1
+stealth
+battlefield_agility
+marksmanship2
+nomenclature
+leadership
+artillery1
+artillery2

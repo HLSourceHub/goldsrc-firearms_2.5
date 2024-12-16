@@ -1,0 +1,8 @@
+9mm SA-3RB
+The 9mm SA-3RB is a specially designed pistol. It fires a 9mm
+round, like its brother the 9mm SA-SIL, and has a built in
+three round burst. This special pistol also has a clip extender
+to give it more rounds, and also can come with a stock for
+controlling the three round burst.
+
+Costs 4 credits.

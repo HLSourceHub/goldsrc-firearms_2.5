@@ -1,0 +1,17 @@
+UB61 By -[DKM]-Gen.Carnage (Territorial push)
+
+Each team must try to capture all check points of the map
+in sequence. Once your team captures all check points, all
+players respawn, your team's lives increase, and the team gains points
+
+Submarine has capture point inside its controltower, red flag on top of red base bunker.
+Blue flag behind netting on top level of blue base bunker.
+
+visit us at:
+http://www.huizen.dds.nl/~dkm
+or
+http://www.dkmclan.cjb.com
+
+Credits:
+DKM team for testing and ideas.
+Custom textures by Mouge.

@@ -1,0 +1,7 @@
+Carbine 5.56 AR
+The Carbine 5.56 AR is a shortened version of the Carbine 5.56
+ARA2. It uses 5.56mm ammo in 30 round clips.  This weapon has
+been known to be carried primarily by the officers of most US
+military branches and has often been revered as a status symbol.
+
+Costs 13 credits.

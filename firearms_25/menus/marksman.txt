@@ -1,0 +1,9 @@
+ Items:
+  * Kevlar Level II
+  * Kevlar Head
+  * Kevlar Arms
+  * Bandages
+
+ Weapons:
+  * Heckler & Koch MP5A5
+  * Heckler & Koch PSG-1

@@ -1,0 +1,7 @@
+.50 A-T SR-SCP
+When it comes to stopping small armored vehicles and damaging
+equipment from long ranges, no other weapon is better than the
+.50 A-T SR-SCP. A heavy sniper rifle, it shoots out .50 cal bmg
+rounds that can take out light armored vehicles.
+
+Costs 17 credits.

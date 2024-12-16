@@ -1,0 +1,9 @@
+Outlands (Push)
+
+ By Rob Lutz
+
+Capture command points in sequence to win
+control of the map. Main centerpoint is the
+middle wooden fort. This fort must be captured
+and held before pushing further into enemy territory.
+A capture results in a 20 point gain, and reinforcements.

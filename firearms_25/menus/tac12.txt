@@ -1,0 +1,6 @@
+TAC 12-gauge
+The TAC 12-gauge is the tactical shotgun of champions. It's
+a standard 12 gauge pump action shotgun with an overhead
+mounted tactical light.  It packs a punch.
+
+Costs 7 credits.

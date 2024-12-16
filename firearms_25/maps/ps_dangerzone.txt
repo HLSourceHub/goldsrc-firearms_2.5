@@ -1,0 +1,8 @@
+Danger Zone (Push)
+
+ By Gary Lanza
+
+Each team must try to capture all check points of the map
+in sequence. Once your team captures all check points, all
+players respawn, your team's lives increase, and the scoring
+player gains points.

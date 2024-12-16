@@ -1,0 +1,7 @@
+Stielhandgranate
+The Stielhand grenade is a weapon from the World War 2 era. It is
+packed with high explosives and can be very deadly. Its priming
+device is a timer that activates directly after arming. Its
+explosion is very damaging and can clear out bunkers with ease.
+
+Costs 3 credits.

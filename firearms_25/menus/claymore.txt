@@ -1,0 +1,9 @@
+M18A1 Claymore
+The M18A1 Claymore device is both an offensive and defensive
+explosive. It works by igniting a layer of C4 that sends hundreds 
+of tiny pellets into its blast area. Note: After planting 
+the Claymore, a plunger will come up. Primary Fire with
+the plunger will cause you to detonate it. Alt-fire will cause the 
+Claymore to go into "trip mode".
+
+Costs 5 credits.

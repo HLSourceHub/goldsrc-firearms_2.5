@@ -1,0 +1,10 @@
+7.62 HCM-MG
+The 7.62 HCM-MG machine gun has its roots in the BAR of World
+War II. Designed to give the infantry man the power of a heavy
+machine gun, the firearm fires a 7.62mm round and uses the
+ammo in the form of belts.  This weapon was not designed to be
+fired from a standing position and is most useful and more
+accurate if placed on a solid object such as the ground while
+prone.
+
+Costs 19 credits.

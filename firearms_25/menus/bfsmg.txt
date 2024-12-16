@@ -1,0 +1,6 @@
+7.62 BF-SMG
+The 7.62 BF-SMG is an unusual gun. This sub-machine gun fires
+belts of 7.62mm (.308) ammo. This gun uses a 50 round
+detachable box.
+
+Costs 12 credits.

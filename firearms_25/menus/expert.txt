@@ -1,0 +1,10 @@
+ Items:
+  * Kevlar Level II
+  * Kevlar Head
+  * Kevlar Arms
+  * Kevlar Legs
+  * Bandages
+
+ Weapons:
+  * Benelli M3 Super 90
+  * Steyr AUG

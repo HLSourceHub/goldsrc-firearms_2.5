@@ -1,0 +1,6 @@
+Obj_Omaha (Objective map)
+
+Blue team must successfully invade Red team's territory
+and destroy the ammo bunker.  Red team must defend this 
+bunker at all cost. *Note Red Team also receives
+reinforcements when the bunker is destroyed by Blue Team.

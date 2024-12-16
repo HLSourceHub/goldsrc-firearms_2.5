@@ -1,0 +1,8 @@
+Invasion (Push)
+
+ By Tyler Munden
+
+City invasion. To enter/exit the city you must destroy 
+"the wall." Each team must try to capture all check points
+of the map in sequence. Once your team captures all check
+points, points are given.

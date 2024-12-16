@@ -1,0 +1,187 @@
+Quick Config Token List
+By Eric PL Smith (kncogs@xmission.com)
+
+The following is a list of the valid tokens that can be placed in the “quick config.txt”
+file to be loaded from the Configurations menu by clicking the “Quick Config” button.
+This file is fully customizable.
+
+The _armor tokens are required to lead the rest of the configuration tokens.  They are
+the tokens that determine the amount of credits that the rest of the configuration will
+use to buy the items that follow not to include skill tokens.  Putting these tokens
+anywhere in the file but at the beginning of your desired configuration, will cause all
+items above this token to be discarded.  The 3 valid _armor tokens are:
+
+	light_armor
+	medium_armor
+	heavy_armor
+
+The rest of the item tokens do not have to be in any particular order but they must be in
+the order that you would like them to be purchased in.  If there are not enough credits
+available to make the desired purchase it will be discarded and the next token will be
+evaluated.  The valid item purchase tokens are:
+
+	armor_helmet
+	armor_arms
+	armor_legs
+	frag
+	flashbang
+	stg24
+	claymore
+	bandages
+	acpsa
+	rvsascp
+	sa3rb
+	sasil
+	aesa
+	tac12
+	autoshot
+	9mmlc
+	tacsmg
+	bfsmg
+	akimbo
+	hcmsmg
+	arbt
+	artac
+	tacarlcm
+	natoarscp
+	argl
+	carbine
+	bparscp
+	srscp
+	atsrscp
+	hcmmg
+	40mmgl
+
+The skill tokens can be placed anywhere in the file you desire and must be placed in the order that you would like them to be chosen.  When a skill token is chosen, you will be
+charged for the skill, the skill will be given and the next token will be evaluated.
+If the skill is already chosen, then the token will be discarded but you will still be
+charged for the skill.  All minor skills must precede its major skill.  For instance, 
+you can’t have Field Medicine before First Aid, Artillery II before Artillery I or 
+Marksmanship II before Marksmanship I.  Otherwise you will be charged for the skill 
+but the skill will be discarded.
+
+It is recommended that you keep all 10 skills tokens in this file regardless of  the
+servers “sv_useskills” setting.  Although you will probably not be able to obtain all
+skills, the purpose is that so that if you have the skill points available, then skill 
+purchasing will proceed in order until all your available skill points are spent.  The 
+amount of skill points are determined by the server setting.  If on a “sv_useskills 0” 
+server, all skill tokens will be discarded.  On a “sv_useskills 1” rank advance server,
+you will earn a skill point at time of rank advance with 1 automatic skill point on
+server join.  A “sv_useskills 2” server will award you 4 skill points to spend regardless
+of rank.  On a “sv_useskills 3” server, all skill tokens are discarded because you have
+all skills to begin with.  The following tokens are the valid skill tokens:
+
+	marksmanship1
+	marksmanship2
+	nomenclature
+	battlefield_agility
+	leadership
+	first_aid
+	field_medicine
+	artillery1
+	artillery2
+	stealth
+
+
+
+Here are some sample Quick Config files (/firearms/menus/quick config.txt).
+
+-----------------------------------------------------------------
+	//Berserker
+	medium_armor
+	armor_helmet
+	frag
+	stg24
+	bandages
+	rvsascp
+	arbt
+	marksmanship1
+	battlefield_agility
+	marksmanship2
+	nomenclature
+	first_aid
+	stealth
+	leadership
+	field_medicine
+	artillery1
+	artillery2
+-----------------------------------------------------------------
+	//Field Medic
+	light_armor
+	armor_helmet
+	armor_arms
+	armor_legs
+	frag
+	bandages
+	acpsa
+	argl
+	first_aid
+	field_medicine
+	marksmanship1
+	stealth
+	battlefield_agility
+	marksmanship2
+	nomenclature
+	leadership
+	artillery1
+	artillery2
+-----------------------------------------------------------------
+	//Officer
+	medium_armor
+	armor_helmet
+	frag
+	bandages
+	aesa
+	carbine
+	leadership
+	artillery1
+	marksmanship1
+	first_aid
+	battlefield_agility
+	nomenclature
+	artillery2
+	marksmanship2
+	field_medicine
+	stealth
+-----------------------------------------------------------------
+	//Special Forces Sniper
+	light_armor
+	armor_helmet
+	armor_arms
+	flashbang
+	stg24
+	bandages
+	atsrscp
+	marksmanship1
+	stealth
+	battlefield_agility
+	marksmanship2
+	nomenclature
+	artillery1
+	first_aid
+	leadership
+	artillery2
+	field_medicine
+-----------------------------------------------------------------
+	//Scout
+	light_armor
+	armor_helmet
+	armor_arms
+	armor_legs
+	frag
+	bandages
+	sasil
+	bparscp
+	battlefield_agility
+	stealth
+	artillery1
+	marksmanship1
+	nomenclature
+	first_aid
+	marksmanship2
+	artillery2
+	field_medicine
+	leadership
+
+
+I think you pretty much get the idea.  Have fun!

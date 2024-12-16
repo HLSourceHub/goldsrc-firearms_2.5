@@ -1,0 +1,10 @@
+9mm-LC
+
+The 9mm-LC, born in the UK, was produced between 1953 and
+1988.  This submachine gun holds 35 rounds of 9mm
+Parabellum ammunition.  The barrel measures 198mm, and
+the gun weighs 2.7kg when empty.  With a rate of fire of
+550 rounds per minute, the 9mmlc is a nice addition to any
+soldier's arsenal.
+
+Costs 8 credits.

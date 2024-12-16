@@ -1,0 +1,4 @@
+Bandages
+Bandages stop bleeding if you are wounded.
+
+Costs 1 credit.

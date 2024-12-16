@@ -1,0 +1,8 @@
+This is the beginning level of the Artillery skill.  You have the
+ability to be a spotter for mortar fire, run mortar rounds, fire
+mortars and request mortar fire.  You do not however, have the
+ability to BUILD or DISMANTLE mortar equipment. The abilities for
+this skill are:
+
+   *Artillery Marker (useskill marker) - Places an artillery marker
+   *Request Artillery Fire (useskill reqart)

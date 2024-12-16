@@ -1,0 +1,16 @@
+PS_CRASH (version 0.9)
+
+By Sigurd Svidal Randal
+
+Each team must try to capture all check points of the map
+in sequence. Once your team captures all check points, all
+players respawn, your team's lives increase (12), and all players on 
+the scoring team gains 10 points.
+
+Please forward any comments on this map to:
+ssvidalr@online.no
+http:\\crash.norgeweb.no
+
+
+
+

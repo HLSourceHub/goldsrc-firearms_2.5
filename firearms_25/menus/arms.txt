@@ -1,0 +1,4 @@
+Kevlar Arms
+Protects your arms from incoming bullets.
+
+Costs 4 credits.

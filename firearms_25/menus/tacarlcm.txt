@@ -1,0 +1,7 @@
+7.62 TAC AR-LCM
+The 7.62 TAC AR-LCM is an old battle rifle. Still used in many 
+armies, it is a reliable but aging firearm. It is mounted
+with a small flashlight below and slightly left of the barrel.
+The 7.62 TAC AR-LCM fires 7.62mm rounds in a 30 round clip.
+
+Costs 13 credits.

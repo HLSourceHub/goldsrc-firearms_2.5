@@ -1,0 +1,7 @@
+.50 AE-SA
+The .50 AE-SA is an unusual pistol in the fact that it can hold a 
+special high powered .50 AE round. What also makes it unusual is 
+the fact that it is a semi auto pistol rather than a revolver, 
+like so many other large caliber guns. 
+
+Costs 5 credits.

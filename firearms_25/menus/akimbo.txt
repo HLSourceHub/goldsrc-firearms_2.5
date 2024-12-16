@@ -1,0 +1,8 @@
+Akimbo .45 SMG
+The Akimbo .45 SMG is a small sub-machine gun that fires .45 cal
+bullets. A gun not known for much accuracy, the tactic normally
+taught is controlled bursts or a spray and pray routine. Each clip 
+holds 30 rounds.  This is an akimbo weapon, meaning you have 
+one in each hand.
+
+Costs 11 credits.

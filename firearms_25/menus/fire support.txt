@@ -1,0 +1,7 @@
+ Items:
+  * Kevlar Level III
+  * Bandages
+
+ Weapons:
+  * Desert Eagle
+  * M60 

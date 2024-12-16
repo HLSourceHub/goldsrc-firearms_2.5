@@ -1,0 +1,8 @@
+ Items:
+  * Kevlar Level IV
+  * Bandages
+  * Fragmentation Grenades
+
+ Weapons:
+  * Beretta 92F 
+  * Colt M16A2 w/ M203

@@ -1,0 +1,7 @@
+5.56 BP AR-SCP
+The 5.56 BP AR-SCP is a unique weapon. A bullpup design and a
+simple action have made this firearm very popular. A mounted
+scope helps with target acquisition. This weapon fires a
+5.56mm round. Alt-fire will toggle the scope.
+
+Costs 11 credits.

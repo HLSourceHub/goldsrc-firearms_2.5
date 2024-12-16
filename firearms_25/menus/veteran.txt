@@ -1,0 +1,8 @@
+ Items:
+  * Kevlar Level IV
+  * Bandages
+  * Fragmentation Grenades
+
+ Weapons:
+  * Colt Government 1911A1
+  * Heckler & Koch G3A3

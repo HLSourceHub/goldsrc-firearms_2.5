@@ -1,0 +1,6 @@
+Level IV kevlar provides maximum impact protection against most weapons.
+It is rarely used as standard equipment except in special operations
+and so on.  Due to the excessive weight of this armor type, you will
+experience hindered movement and less ability to carry more items.
+
+Provides 20 credits.

@@ -1,0 +1,9 @@
+9mm HCM-SMG
+The pistol-machinegun 9mm HCM-SMG, is a compact weapon
+designed for use by armed forces and personnel responsible for
+the maintenance of law and order when firepower is needed in
+tight quarters.  The pistol-machinegun can delivers fire
+with two types of cartridges: 9-mm pistol cartridges and
+modernized pistol cartridges, cal. 9mm.
+
+Costs 10 credits.

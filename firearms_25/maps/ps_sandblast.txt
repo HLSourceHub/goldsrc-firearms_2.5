@@ -1,0 +1,12 @@
+Sandblast (Push)
+
+ By Jeff Lane
+
+Each team must try to capture all three checkpoints of the
+map in sequence. Once your team captures all check points,
+all players respawn. For capturing all points, each team member
+gets 8 points, the scoring player gains an additional 4 points,
+and team's reinforcements increase by 10.
+
+Additionally, capturing the center checkpoint gives 3 points
+to the capturing player.

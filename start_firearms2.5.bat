@@ -1,0 +1,1 @@
+hl.exe -game firearms_25 -num_edicts 2048 -console

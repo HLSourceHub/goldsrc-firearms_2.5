@@ -1,0 +1,10 @@
+5.56 AR-GL
+The 5.56 AR-GL is the second generation rifle. This weapon
+has seen action in several countries and remains the primary
+weapon for many armies. The 5.56 AR-GL is a burst / single shot
+only rifle that fires 5.56mm, 30 round clips. Attached to the
+5.56 AR-GL is a grenade launcher. The AR-GL fires the 40mm
+High Explosive Grenade.  The weapon has been modified to fire
+at full-auto.
+
+Costs 13 credits.
